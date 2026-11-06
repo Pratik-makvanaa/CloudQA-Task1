@@ -21,7 +21,7 @@ A C# and Selenium WebDriver project to automate the CloudQA Practice Form.
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone git push -u origin main
 cd CloudQA-Task1
 ```
 
